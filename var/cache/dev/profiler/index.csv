@@ -1,0 +1,7 @@
+f4eddd,127.0.0.1,GET,http://127.0.0.1/testedulog/public/,1582020319,,404
+efc2ad,::1,GET,http://edulog/,1582020597,,404
+4b5082,::1,GET,http://edulog/,1582020915,,404
+4c7476,::1,GET,http://edulog/,1582020988,59cf2d,500
+59cf2d,::1,GET,http://edulog/,1582020988,,500
+4e0fd7,::1,GET,http://edulog/,1582026327,0c20b5,500
+0c20b5,::1,GET,http://edulog/,1582026327,,500
